@@ -1,5 +1,25 @@
-# myLeetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+This repository contains my accepted LeetCode submissions, automatically synced using Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). It serves as a version-controlled archive of my coding practice and documents my journey in mastering Data Structures and Algorithms. Every solution is implemented in **C++**, with an emphasis on writing clean, efficient, and interview-ready code. As I continue solving problems, this repository is updated automatically to reflect my progress, consistency, and continuous learning while preparing for Software Engineering internships and full-time opportunities.
+
+## Objectives
+
+- Build a strong foundation in Data Structures and Algorithms.
+- Improve analytical thinking and problem-solving abilities.
+- Practice writing clean, optimized, and maintainable C++ code.
+- Maintain consistency through regular coding practice.
+- Track my progress with a version-controlled collection of accepted solutions.
+- Prepare for coding assessments, technical interviews, and competitive programming challenges.
+
+## Repository
+
+- **Language:** C++
+- **Platform:** LeetCode
+- **Sync:** Automatic updates via LeetHub v2
+
+---
+
+> *"Success in coding interviews is built one solved problem at a time."*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
