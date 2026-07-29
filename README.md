@@ -35,6 +35,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
@@ -54,4 +55,8 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
