@@ -31,6 +31,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/iamanmol45/myLeetcode/tree/master/0125-valid-palindrome) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
