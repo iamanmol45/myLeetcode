@@ -26,6 +26,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iamanmol45/myLeetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -37,6 +38,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
@@ -74,6 +76,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
