@@ -44,6 +44,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1732-find-the-highest-altitude](https://github.com/iamanmol45/myLeetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
@@ -59,6 +60,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/iamanmol45/myLeetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/iamanmol45/myLeetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
