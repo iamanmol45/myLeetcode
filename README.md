@@ -38,6 +38,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/iamanmol45/myLeetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/iamanmol45/myLeetcode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/iamanmol45/myLeetcode/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
