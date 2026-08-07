@@ -42,6 +42,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/iamanmol45/myLeetcode/tree/master/0414-third-maximum-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/iamanmol45/myLeetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
