@@ -2,20 +2,23 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         unordered_map<int, int> mp;
-
         mp[0] = 1;
 
-        int sum = 0;
+        int prefixSum = 0;
         int count = 0;
 
         for (int num : nums) {
-            sum += num;
+            prefixSum += num;
 
-            if (mp.find(sum - k) != mp.end()) {
-                count += mp[sum - k];
+            // We need an earlier prefix sum:
+            // prefixSum - previousSum = k
+            int required = prefixSum - k;
+
+            if (mp.find(required) != mp.end()) {
+                count += mp[required];
             }
 
-            mp[sum]++;
+            mp[prefixSum]++;
         }
 
         return count;
