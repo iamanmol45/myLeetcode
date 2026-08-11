@@ -44,6 +44,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/iamanmol45/myLeetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/iamanmol45/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/iamanmol45/myLeetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamanmol45/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/iamanmol45/myLeetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -113,4 +114,12 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamanmol45/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/iamanmol45/myLeetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/iamanmol45/myLeetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
