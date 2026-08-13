@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iamanmol45/myLeetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/iamanmol45/myLeetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0088-merge-sorted-array](https://github.com/iamanmol45/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/iamanmol45/myLeetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/iamanmol45/myLeetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/iamanmol45/myLeetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/iamanmol45/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/iamanmol45/myLeetcode/tree/master/0739-daily-temperatures) |
