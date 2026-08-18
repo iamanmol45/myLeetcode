@@ -64,6 +64,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/iamanmol45/myLeetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/iamanmol45/myLeetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/iamanmol45/myLeetcode/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
@@ -75,6 +76,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/iamanmol45/myLeetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/iamanmol45/myLeetcode/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/iamanmol45/myLeetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -131,4 +133,8 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamanmol45/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/iamanmol45/myLeetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
