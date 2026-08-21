@@ -33,6 +33,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamanmol45/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/iamanmol45/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/iamanmol45/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/iamanmol45/myLeetcode/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamanmol45/myLeetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -63,6 +64,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/iamanmol45/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/iamanmol45/myLeetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/iamanmol45/myLeetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -119,6 +121,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamanmol45/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/iamanmol45/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/iamanmol45/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamanmol45/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
