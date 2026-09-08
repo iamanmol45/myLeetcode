@@ -71,6 +71,7 @@ This repository contains my accepted LeetCode submissions, automatically synced 
 | [0258-add-digits](https://github.com/iamanmol45/myLeetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamanmol45/myLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/iamanmol45/myLeetcode/tree/master/2485-find-the-pivot-integer) |
+| [3870-count-commas-in-range](https://github.com/iamanmol45/myLeetcode/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
